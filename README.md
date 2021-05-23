@@ -1,7 +1,7 @@
 # Algroithms
 
 
-Knapsack problem: solution implemented using different kinds of aglorithms approaches like: 
+Knapsack 0/1 problem: solution implemented using different kinds of aglorithms approaches like: 
   1- Greedy alogrithm
   2- Brute force algorithm
   3- Dynamic programming
